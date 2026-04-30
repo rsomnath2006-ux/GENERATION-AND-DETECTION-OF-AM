@@ -104,7 +104,7 @@ plot(t,eam);
 # MODEL GRAPH:
 <img width="919" height="1290" alt="image" src="https://github.com/user-attachments/assets/03d6ca7c-9fa1-4a92-81c6-2718308bad80" />
 
-# GRAPH:
+# OUTPUT WAVEFORM:
 <img width="1609" height="974" alt="Amplitude modulation" src="https://github.com/user-attachments/assets/8a240301-27ff-415f-88da-0072aa97d35d" />
 
 
